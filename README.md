@@ -3,4 +3,5 @@ LABVIEW based application to log voltages measured by SmartScope during a longer
 
 # References
 SmartScope interface : https://github.com/labnation/DeviceInterface.LabView
+
 Planned in future resease : https://github.com/fieldrndservices/logger
